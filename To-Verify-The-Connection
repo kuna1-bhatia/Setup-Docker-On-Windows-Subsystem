@@ -5,4 +5,4 @@ docker --version
 docker run hello-world
 
 # Pull a image from Dockerhub
-docker pull mysql:8.0 # 8.0 that is a tag or version 
+docker pull mysql:8.0 # 8.0 that is an tag or version 

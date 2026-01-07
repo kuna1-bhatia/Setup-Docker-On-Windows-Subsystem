@@ -2,6 +2,7 @@
 ​A streamlined guide to getting your Docker environment running smoothly on Windows Subsystem for Linux.
 ​🚀 Quick Start Guide
 ​
+
 🔹 Step 1: Install Docker Desktop
 ​Before touching the terminal, you need the core engine installed on your Windows host.
 ​Download: Docker Desktop for Windows
@@ -9,6 +10,7 @@
 ​Verify: Open Docker Desktop and wait for the whale icon in the system tray to turn steady green.
 ​Status Check: Look for Docker Engine running ✅
 ​
+
 🔹 Step 2: Enable WSL Integration (Crucial)
 ​This step bridges the gap between your Windows Docker installation and your Ubuntu/Linux terminal.
 ​Open Docker Desktop Settings (gear icon).
@@ -17,6 +19,7 @@
 ​Enable integration with my default WSL distro
 ​Under Enable integration with additional distros, toggle Ubuntu (or your preferred distro) to ON.
 ​Click Apply & Restart.
+
 
 ​🛠 Step 3: Verify the Connection
 ​Open your Ubuntu terminal and run the following commands to ensure everything is linked correctly:

@@ -1,0 +1,8 @@
+# Check Docker version
+docker --version
+
+# Run a test container
+docker run hello-world
+
+# Pull a image from Dockerhub
+docker pull mysql:8.0 # 8.0 that is a tag or version 
